@@ -1,0 +1,35 @@
+{
+  "name": "passport-login-template",
+  "version": "1.0.0",
+  "description": "nodejs passport login template",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidthegreat/passport-login-template.git"
+  },
+  "author": "David Ramirez",
+  "license": "ISC",
+  "dependencies": {
+  "bcryptjs": "*",
+  "body-parser": "*",
+  "connect-flash": "*",
+  "cookie-parser": "^1.4.1",
+  "express": "*",
+  "express-handlebars": "*",
+  "express-messages": "*",
+  "express-session": "*",
+  "express-validator": "*",
+  "mongodb": "*",
+  "mongoose": "*",
+  "passport": "*",
+  "passport-http": "*",
+  "passport-local": "*"
+},
+  "bugs": {
+    "url": "https://github.com/davidthegreat/passport-login-template/issues"
+  },
+  "homepage": "https://github.com/davidthegreat/passport-login-template#readme"
+}
